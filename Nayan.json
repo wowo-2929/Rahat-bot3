@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "naim-bot",
-  "PREFIX": "!",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
