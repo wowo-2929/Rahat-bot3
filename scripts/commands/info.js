@@ -4,9 +4,9 @@ module.exports.config = {
     permission: 0,
     credits: "nayan",
     prefix: true,
-    description: "",
+    description: "info",
     category: "prefix",
-    usages: "",
+    usages: "info",
     cooldowns: 5,
     dependencies: 
 	{
