@@ -5,7 +5,7 @@
   "developermode": false,
   "language": "en",
   "notification": false,
-  "approval": false,
+  "approval": true,
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
@@ -13,14 +13,14 @@
   "PREFIX": "+",
   "react": "☠️",
   "OPERATOR": [
-    "",
+    "61561511477968",
     "100000959749712"
   ],
   "ADMINBOT": [
     "61561511477968",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61561511477968"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
